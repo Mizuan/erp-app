@@ -7,3 +7,5 @@
  - npm run dev
 
 
+- in case of npm error use
+npm config set legacy-peer-deps true
