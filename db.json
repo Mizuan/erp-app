@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Understanding JavaScript Closures",
+      "body": "Closures are one of the most powerful features in JavaScript. They allow functions to remember the variables from their original scope.",
+      "author": "John Doe",
+      "createdDate": "2024-12-10T09:30:00Z"
+    },
+    {
+      "title": "A Guide to React Hooks ",
+      "body": "React Hooks let you use state and other React features without writing a class. This guide explains how they work.",
+      "author": "Jane Smith",
+      "createdDate": "2024-12-08T14:15:00Z",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "10 Tips for Writing Clean Code",
+      "body": "Clean code is easy to read and maintain. Follow these tips to make your code cleaner and more professional.",
+      "author": "Alex Johnson",
+      "createdDate": "2024-12-06T17:45:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Exploring the Tailwind CSS Framework",
+      "body": "Tailwind CSS is a utility-first CSS framework that allows you to build modern websites quickly and efficiently.",
+      "author": "Emily Davis",
+      "createdDate": "2024-12-05T11:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Understanding REST APIs",
+      "body": "REST APIs are a key part of modern web development. This post explains what they are and how to use them effectively.",
+      "author": "Michael Brown",
+      "createdDate": "2024-12-03T16:20:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Introduction to TypeScript",
+      "body": "TypeScript is a strongly typed programming language that builds on JavaScript. Learn why developers are using it for large-scale applications.",
+      "author": "Sophia Wilson",
+      "createdDate": "2024-12-02T10:10:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Mastering Git for Version Control",
+      "body": "Git is an essential tool for developers. This post covers the basics and advanced techniques to master Git.",
+      "author": "Chris Anderson",
+      "createdDate": "2024-12-01T09:45:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Building Responsive Websites with CSS Grid",
+      "body": "CSS Grid is a powerful tool for creating responsive layouts. Learn how to use it in your next web project.",
+      "author": "Linda Martinez",
+      "createdDate": "2024-11-30T13:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Exploring Python's Asyncio",
+      "body": "Asyncio is a library in Python that enables asynchronous programming. Learn how to use it for concurrent tasks.",
+      "author": "David Clark",
+      "createdDate": "2024-11-29T15:30:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Securing Your Applications with OAuth",
+      "body": "OAuth is an open standard for access delegation. This guide explains how to integrate OAuth into your applications securely.",
+      "author": "Sarah Lee",
+      "createdDate": "2024-11-28T12:25:00Z"
+    }
+  ]
+}
